@@ -1,2 +1,7 @@
 # ReaseachGroup
-The researchGroup of Xiongqing
+The researchGroup of Xiongqing.
+项目简介：此项目旨在建立一个直系同源基因库，并开发网站提供直系同源基因配对功能。
+项目成员：
+  李迪康  电话：18883339779
+  周璐  电话：15310820379
+  龙煊英 电话：18883385590
